@@ -8,7 +8,7 @@ is a recipe and a robot
   </head>
   
   <body>
-    <h1>Plátanos con ñcrema</h1>
+    <h1>Plátanos con crema</h1>
     
     <h3>Ingredientes:</h3>
     
